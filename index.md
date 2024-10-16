@@ -34,8 +34,6 @@ Thermal infrared object detection based on deep neural networks (DNNs) is widely
 </video>
 <figcaption>HotColdBlock</figcaption>
         </td>
-    </tr>
-    <tr>
         <td>
 <video  width="330" height="170" controls>
   <source src="VIS\UAP.mp4" type="video/mp4">
@@ -43,6 +41,8 @@ Thermal infrared object detection based on deep neural networks (DNNs) is widely
 </video>
 <figcaption>UAP</figcaption>
         </td>
+    </tr>
+    <tr>
         <td>
 <video  width="330" height="170" controls>
   <source src="VIS\AIB.mp4" type="video/mp4">
@@ -57,14 +57,14 @@ Thermal infrared object detection based on deep neural networks (DNNs) is widely
 </video>
 <figcaption>ADVSticker</figcaption>
         </td>
-    </tr>
+        <td>
 <video  width="330" height="170" controls>
   <source src="VIS\QRCode.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>QRAttack</figcaption>
         </td>
-    </tr>
+        <td>
 <video  width="330" height="170" controls>
   <source src="VIS\NightWalker.mp4" type="video/mp4">
   Your browser does not support the video tag.
