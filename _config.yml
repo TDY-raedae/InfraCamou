@@ -1,7 +1,7 @@
 # theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
 title: NightWalker 
-description: The official examples of article "NightWalker: Robust Multi-view Infrared Adversarial Attack with Physically Realizable Camouflage via Voronoi Diagrams"
+description: The official examples of article "NightWalker :Robust Multi-view Infrared Adversarial Attack with Physically Realizable Camouflage via Voronoi Diagrams"
 github:
   is_project_page: false
 
