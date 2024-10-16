@@ -1,6 +1,6 @@
 ## NightWalker: Robust Multi-view Infrared Adversarial Attack with Physically Realizable Camouflage via Voronoi Diagrams
 
-![alt text](NaturalDubber.png)
+![alt text](piplinev1 (1).png)
 
 [Result of On V2C-Animation benchmark in Dub 1.0 Setting](#Setting1V2C) \
 [Result of On GRID benchmark in Dub 1.0 Setting](#Setting1GRID) \
