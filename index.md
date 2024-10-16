@@ -9,7 +9,8 @@ Thermal infrared object detection based on deep neural networks (DNNs) is widely
 
 
 [Display of physical adversarial camouflage in RGB images](#visible) \
-[Display of physical adversarial camouflage in infrared images](#infrared) 
+[Display of physical adversarial camouflage in infrared images](#infrared)  \
+[Detection result of physical adversarial camouflage in infrared images](#infrared_Det)
 <a id="visible"></a>
 ### Physical adversarial camouflage in RGB images.
 <table border="1">
@@ -81,28 +82,28 @@ Thermal infrared object detection based on deep neural networks (DNNs) is widely
     <tr>
         <td>
 <video width="330" height="170" controls>
-  <source src="VIS\smallbulb.mp4" type="video/mp4">
+  <source src="infrared\BulbAttack.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>BulbAttack</figcaption>
         </td>
         <td>
 <video  width="330" height="170" controls>
-  <source src="VIS\AIP.mp4" type="video/mp4">
+  <source src="infrared\AIP.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>AIP</figcaption>
         </td>
         <td>
 <video  width="330" height="170" controls>
-  <source src="VIS\Hotcold.mp4" type="video/mp4">
+  <source src="infrared\HotColdBlock 2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>HotColdBlock</figcaption>
         </td>
         <td>
 <video  width="330" height="170" controls>
-  <source src="VIS\UAP.mp4" type="video/mp4">
+  <source src="infrared\UAP.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>UAP</figcaption>
@@ -111,28 +112,95 @@ Thermal infrared object detection based on deep neural networks (DNNs) is widely
     <tr>
         <td>
 <video  width="330" height="170" controls>
-  <source src="VIS\AIB.mp4" type="video/mp4">
+  <source src="infrared\\AIB.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>AIB</figcaption>
         </td>
         <td>
 <video  width="330" height="170" controls>
-  <source src="VIS\ADVSticker.mp4" type="video/mp4">
+  <source src="infrared\ADVSticker.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>ADVSticker</figcaption>
         </td>
         <td>
 <video  width="330" height="170" controls>
-  <source src="VIS\QRCode.mp4" type="video/mp4">
+  <source src="infrared\QRattack2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>QRAttack</figcaption>
         </td>
         <td>
 <video  width="330" height="170" controls>
-  <source src="VIS\NightWalker.mp4" type="video/mp4">
+  <source src="infrared\NightWalker.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption>NightWalker</figcaption>
+        </td>
+    </tr>
+</table>
+
+
+
+<a id="infrared_Det"></a>
+### The detection result of physical adversarial camouflage in infrared images.
+<table border="1">
+    <tr>
+        <td>
+<video width="330" height="170" controls>
+  <source src="infrared_detect\BulbAttack.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption>BulbAttack</figcaption>
+        </td>
+        <td>
+<video  width="330" height="170" controls>
+  <source src="infrared_detect\AIP.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption>AIP</figcaption>
+        </td>
+        <td>
+<video  width="330" height="170" controls>
+  <source src="infrared_detect\HotColdBlock 2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption>HotColdBlock</figcaption>
+        </td>
+        <td>
+<video  width="330" height="170" controls>
+  <source src="infrared_detect\UAP.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption>UAP</figcaption>
+        </td>
+    </tr>
+    <tr>
+        <td>
+<video  width="330" height="170" controls>
+  <source src="infrared_detect\AIB.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption>AIB</figcaption>
+        </td>
+        <td>
+<video  width="330" height="170" controls>
+  <source src="infrared_detect\ADVSticker.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption>ADVSticker</figcaption>
+        </td>
+        <td>
+<video  width="330" height="170" controls>
+  <source src="infrared_detect\QRattack2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption>QRAttack</figcaption>
+        </td>
+        <td>
+<video  width="330" height="170" controls>
+  <source src="infrared_detect\NightWalker.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>NightWalker</figcaption>
