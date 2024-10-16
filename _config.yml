@@ -1,7 +1,8 @@
 # theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
-title: NightWalker
-description: The official examples of article "NightWalker Robust Multi-view Infrared Adversarial Attack with Physically Realizable Camouflage via Voronoi Diagrams"
+title: From Speaker to Dubber
+description: The official examples of article "From Speaker to Dubber"
 github:
   is_project_page: false
+
 
